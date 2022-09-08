@@ -14,9 +14,9 @@ import sys
 
 #reddit creds
 reddit = praw.Reddit(
-    client_id="LpRsYO13zwASaresFtgzVQ",
-    client_secret="cBFlbla5J78KxJuJ3yuUD8QOvlCeGw",
-    user_agent="Mohiki",
+    client_id="",
+    client_secret="",
+    user_agent="",
 )
 
 
