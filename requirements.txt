@@ -1,1 +1,4 @@
-
+praw==7.6.0
+selenium==4.3.0
+moviepy==1.0.3
+pyttsx3==2.90
