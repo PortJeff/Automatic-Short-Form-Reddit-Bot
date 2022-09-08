@@ -8,6 +8,9 @@ input reddit auth tokens on lines 16-20. You can get them here https://www.reddi
 
 Make sure you have a correct version of chrome driver
 
+# Videos
+The videos you input can be of any length, it will take a random 1 min clip from it and make it into a shorts video. Make sure it is of a 16:9 aspect ratio as it creates videos for formats such as tik-toks and youtube shorts.
+
 # Usage
 Use run() function to create videos
 
